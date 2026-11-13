@@ -40,9 +40,11 @@ Open the developer console with `Ctrl+Shift+I` to see log output.
 2. Put them in `<vault>/.obsidian/plugins/stylus-wayland-fix/`.
 3. Reload Obsidian and enable the plugin under **Settings → Community plugins**.
 
+<!--
 ### BRAT
 
 Add this repository in the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin to get updates automatically.
+--->
 
 ## Finding the right setting
 
