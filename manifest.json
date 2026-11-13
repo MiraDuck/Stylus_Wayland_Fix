@@ -1,0 +1,9 @@
+{
+  "id": "stylus-wayland-fix",
+  "name": "Stylus Wayland Fix",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Removes the stray line at the start of every pen stroke when Obsidian runs natively on Wayland.",
+  "author": "MiraDuck",
+  "isDesktopOnly": true
+}
